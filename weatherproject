@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="city">
+      <label for="city"></label>
+      <input type="city" placeholder="Enter a city..." />
+      <input type="submit" value="search" />
+    </div>
+
+    <h1>
+      <strong> Paris </strong>
+    </h1>
+    <header>
+      Saturday 1:30pm, Sunny
+      <br />
+      Humidity: <strong> 30% </strong> , Wind: <strong> 10 mph </strong>
+    </header>
+
+    <section>
+      <ul>
+        <li>
+          sun 🌤
+          <br />
+          <strong>40℉ </strong>
+          - 30℉
+        </li>
+        <li>
+          Mon 🌧
+          <br />
+          <strong> 45℉</strong> - 38℉
+        </li>
+        <li>
+          Tue 🌞
+          <br />
+          <strong> 60℉ </strong> - 55℉
+        </li>
+        <li>
+          Wed ⛈
+          <br />
+          <strong> 65℉ </strong>
+          - 55℉
+        </li>
+        <li>
+          Thu 🌬
+          <br />
+          <strong> 20℉ </strong> - 15℉
+        </li>
+      </ul>
+    </section>
+
+    <footer>This project was coded by Kristy Melero</footer>
+  </body>
+</html>
